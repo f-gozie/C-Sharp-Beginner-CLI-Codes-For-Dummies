@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/BooleanTypes/BooleanTypes/bin/Debug/BooleanTypes.exe
+/home/agozie/RiderProjects/BooleanTypes/BooleanTypes/bin/Debug/BooleanTypes.pdb
+/home/agozie/RiderProjects/BooleanTypes/BooleanTypes/obj/Debug/BooleanTypes.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/BooleanTypes/BooleanTypes/obj/Debug/BooleanTypes.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/BooleanTypes/BooleanTypes/obj/Debug/BooleanTypes.exe
+/home/agozie/RiderProjects/BooleanTypes/BooleanTypes/obj/Debug/BooleanTypes.pdb

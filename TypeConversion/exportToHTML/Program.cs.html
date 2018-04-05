@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>Program.cs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #999999; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(128,128,128); font-style: italic; }
+.s3 { color: rgb(0,0,255); }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+Program.cs</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">using </span><span class="s1">System; 
+ 
+</span><span class="s0">namespace </span><span class="s1">TypeConversion 
+{ 
+    </span><span class="s0">internal class </span><span class="s1">Program 
+    { 
+        </span><span class="s0">public static void </span><span class="s1">Main(</span><span class="s0">string</span><span class="s1">[] args) 
+        { 
+            </span><span class="s2">// Implicit Type Conversion</span><span class="s1"> 
+            </span><span class="s0">int </span><span class="s1">myInt = </span><span class="s3">5</span><span class="s1">; 
+            Console.WriteLine(myInt); 
+ 
+            </span><span class="s0">long </span><span class="s1">myLong = myInt; 
+            Console.WriteLine(myLong); 
+             
+            Console.WriteLine(myLong + myInt); 
+             
+            </span><span class="s2">// Explicit Type Conversion</span><span class="s1"> 
+            </span><span class="s0">double </span><span class="s1">myDouble = </span><span class="s3">5.1d</span><span class="s1">; 
+            Console.WriteLine(myDouble); 
+ 
+            </span><span class="s0">long </span><span class="s1">myNewLong = (</span><span class="s0">long</span><span class="s1">) myDouble; 
+            Console.WriteLine(myNewLong); 
+ 
+            myDouble = </span><span class="s3">5e9d</span><span class="s1">; 
+            Console.WriteLine(myDouble); 
+ 
+            </span><span class="s0">int </span><span class="s1">myNewInt = (</span><span class="s0">int</span><span class="s1">) myDouble; 
+            Console.WriteLine(myNewInt); 
+            Console.WriteLine(</span><span class="s0">int</span><span class="s1">.MinValue); 
+             
+            </span><span class="s2">// Experimenting Data Loss during Type Conversion</span><span class="s1"> 
+            </span><span class="s0">long </span><span class="s1">myNewestLong = </span><span class="s0">long</span><span class="s1">.MaxValue; 
+            </span><span class="s0">int </span><span class="s1">myNewestInt = (</span><span class="s0">int</span><span class="s1">) myNewestLong; 
+             
+            Console.WriteLine(myNewestLong); 
+            Console.WriteLine(myNewestInt); 
+             
+            </span><span class="s2">// Type Conversion Examples</span><span class="s1"> 
+            </span><span class="s0">float </span><span class="s1">heightInMeters = </span><span class="s3">1.74f</span><span class="s1">; </span><span class="s2">// Explicit</span><span class="s1"> 
+            </span><span class="s0">double </span><span class="s1">maxHeight = heightInMeters; </span><span class="s2">// Implicit</span><span class="s1"> 
+            </span><span class="s0">double </span><span class="s1">minHeight = (</span><span class="s0">double</span><span class="s1">) heightInMeters; </span><span class="s2">// Explicit</span><span class="s1"> 
+            </span><span class="s0">float </span><span class="s1">actualHeight = (</span><span class="s0">float</span><span class="s1">) maxHeight; 
+ 
+            </span><span class="s2">// float maxHeightFloat = maxHeight; --&gt; Compilation Error</span><span class="s1"> 
+             
+            </span><span class="s2">// Forcing Overflow Exceptions during Casting</span><span class="s1"> 
+            </span><span class="s0">double </span><span class="s1">d = </span><span class="s3">5e9d</span><span class="s1">; 
+            Console.WriteLine(d); 
+            </span><span class="s0">int </span><span class="s1">i = </span><span class="s0">checked</span><span class="s1">((</span><span class="s0">int</span><span class="s1">) d); </span><span class="s2">// System.OverflowException</span><span class="s1"> 
+            Console.WriteLine(i); 
+ 
+            </span><span class="s0">int </span><span class="s1">a = </span><span class="s3">5</span><span class="s1">; 
+            </span><span class="s0">int </span><span class="s1">b = ++a; 
+             
+            Console.WriteLine(a); 
+            Console.WriteLine(b); 
+ 
+        } 
+    } 
+}</span></pre>
+</body>
+</html>

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/classes/classes/bin/Debug/classes.exe
+/home/agozie/RiderProjects/classes/classes/bin/Debug/classes.pdb
+/home/agozie/RiderProjects/classes/classes/obj/Debug/classes.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/classes/classes/obj/Debug/classes.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/classes/classes/obj/Debug/classes.exe
+/home/agozie/RiderProjects/classes/classes/obj/Debug/classes.pdb

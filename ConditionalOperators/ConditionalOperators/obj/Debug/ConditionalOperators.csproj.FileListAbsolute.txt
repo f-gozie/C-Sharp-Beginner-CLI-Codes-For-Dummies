@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/ConditionalOperators/ConditionalOperators/bin/Debug/ConditionalOperators.exe
+/home/agozie/RiderProjects/ConditionalOperators/ConditionalOperators/bin/Debug/ConditionalOperators.pdb
+/home/agozie/RiderProjects/ConditionalOperators/ConditionalOperators/obj/Debug/ConditionalOperators.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/ConditionalOperators/ConditionalOperators/obj/Debug/ConditionalOperators.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/ConditionalOperators/ConditionalOperators/obj/Debug/ConditionalOperators.exe
+/home/agozie/RiderProjects/ConditionalOperators/ConditionalOperators/obj/Debug/ConditionalOperators.pdb

@@ -1,0 +1,5 @@
+/home/agozie/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/agozie/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe.mdb
+/home/agozie/RiderProjects/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe
+/home/agozie/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe
+/home/agozie/RiderProjects/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe.mdb

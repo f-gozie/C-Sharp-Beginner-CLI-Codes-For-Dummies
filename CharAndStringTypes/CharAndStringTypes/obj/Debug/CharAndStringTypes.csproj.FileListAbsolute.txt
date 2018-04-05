@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/CharAndStringTypes/CharAndStringTypes/bin/Debug/CharAndStringTypes.exe
+/home/agozie/RiderProjects/CharAndStringTypes/CharAndStringTypes/bin/Debug/CharAndStringTypes.pdb
+/home/agozie/RiderProjects/CharAndStringTypes/CharAndStringTypes/obj/Debug/CharAndStringTypes.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/CharAndStringTypes/CharAndStringTypes/obj/Debug/CharAndStringTypes.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/CharAndStringTypes/CharAndStringTypes/obj/Debug/CharAndStringTypes.exe
+/home/agozie/RiderProjects/CharAndStringTypes/CharAndStringTypes/obj/Debug/CharAndStringTypes.pdb

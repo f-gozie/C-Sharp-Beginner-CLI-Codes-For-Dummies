@@ -1,0 +1,5 @@
+/home/agozie/RiderProjects/fibonacci/fibonacci/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/agozie/RiderProjects/fibonacci/fibonacci/bin/Debug/fibonacci.exe.mdb
+/home/agozie/RiderProjects/fibonacci/fibonacci/bin/Debug/fibonacci.exe
+/home/agozie/RiderProjects/fibonacci/fibonacci/obj/Debug/fibonacci.exe
+/home/agozie/RiderProjects/fibonacci/fibonacci/obj/Debug/fibonacci.exe.mdb

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/explicitConversion/explicitConversion/bin/Debug/explicitConversion.exe
+/home/agozie/RiderProjects/explicitConversion/explicitConversion/bin/Debug/explicitConversion.pdb
+/home/agozie/RiderProjects/explicitConversion/explicitConversion/obj/Debug/explicitConversion.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/explicitConversion/explicitConversion/obj/Debug/explicitConversion.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/explicitConversion/explicitConversion/obj/Debug/explicitConversion.exe
+/home/agozie/RiderProjects/explicitConversion/explicitConversion/obj/Debug/explicitConversion.pdb

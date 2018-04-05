@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/RealFloatingPointTypes/RealFloatingPointType/bin/Debug/RealFloatingPointType.exe
+/home/agozie/RiderProjects/RealFloatingPointTypes/RealFloatingPointType/bin/Debug/RealFloatingPointType.pdb
+/home/agozie/RiderProjects/RealFloatingPointTypes/RealFloatingPointType/obj/Debug/RealFloatingPointType.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/RealFloatingPointTypes/RealFloatingPointType/obj/Debug/RealFloatingPointType.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/RealFloatingPointTypes/RealFloatingPointType/obj/Debug/RealFloatingPointType.exe
+/home/agozie/RiderProjects/RealFloatingPointTypes/RealFloatingPointType/obj/Debug/RealFloatingPointType.pdb

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/revision/revision/bin/Debug/revision.exe
+/home/agozie/RiderProjects/revision/revision/bin/Debug/revision.pdb
+/home/agozie/RiderProjects/revision/revision/obj/Debug/revision.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/revision/revision/obj/Debug/revision.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/revision/revision/obj/Debug/revision.exe
+/home/agozie/RiderProjects/revision/revision/obj/Debug/revision.pdb

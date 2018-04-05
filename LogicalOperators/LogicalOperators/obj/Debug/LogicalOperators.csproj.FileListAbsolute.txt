@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/LogicalOperators/LogicalOperators/bin/Debug/LogicalOperators.exe
+/home/agozie/RiderProjects/LogicalOperators/LogicalOperators/bin/Debug/LogicalOperators.pdb
+/home/agozie/RiderProjects/LogicalOperators/LogicalOperators/obj/Debug/LogicalOperators.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/LogicalOperators/LogicalOperators/obj/Debug/LogicalOperators.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/LogicalOperators/LogicalOperators/obj/Debug/LogicalOperators.exe
+/home/agozie/RiderProjects/LogicalOperators/LogicalOperators/obj/Debug/LogicalOperators.pdb

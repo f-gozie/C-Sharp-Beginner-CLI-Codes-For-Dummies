@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/multidimensionalarrays/multidimensionalarrays/bin/Debug/multidimensionalarrays.exe
+/home/agozie/RiderProjects/multidimensionalarrays/multidimensionalarrays/bin/Debug/multidimensionalarrays.pdb
+/home/agozie/RiderProjects/multidimensionalarrays/multidimensionalarrays/obj/Debug/multidimensionalarrays.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/multidimensionalarrays/multidimensionalarrays/obj/Debug/multidimensionalarrays.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/multidimensionalarrays/multidimensionalarrays/obj/Debug/multidimensionalarrays.exe
+/home/agozie/RiderProjects/multidimensionalarrays/multidimensionalarrays/obj/Debug/multidimensionalarrays.pdb

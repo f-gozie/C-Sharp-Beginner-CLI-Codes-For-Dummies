@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/AssignmentOperators/AssignmentOperators/bin/Debug/AssignmentOperators.exe
+/home/agozie/RiderProjects/AssignmentOperators/AssignmentOperators/bin/Debug/AssignmentOperators.pdb
+/home/agozie/RiderProjects/AssignmentOperators/AssignmentOperators/obj/Debug/AssignmentOperators.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/AssignmentOperators/AssignmentOperators/obj/Debug/AssignmentOperators.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/AssignmentOperators/AssignmentOperators/obj/Debug/AssignmentOperators.exe
+/home/agozie/RiderProjects/AssignmentOperators/AssignmentOperators/obj/Debug/AssignmentOperators.pdb

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/Constants/Constants/bin/Debug/Constants.exe
+/home/agozie/RiderProjects/Constants/Constants/bin/Debug/Constants.pdb
+/home/agozie/RiderProjects/Constants/Constants/obj/Debug/Constants.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/Constants/Constants/obj/Debug/Constants.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/Constants/Constants/obj/Debug/Constants.exe
+/home/agozie/RiderProjects/Constants/Constants/obj/Debug/Constants.pdb

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/OtherOperators/OtherOperator/bin/Debug/OtherOperator.exe
+/home/agozie/RiderProjects/OtherOperators/OtherOperator/bin/Debug/OtherOperator.pdb
+/home/agozie/RiderProjects/OtherOperators/OtherOperator/obj/Debug/OtherOperator.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/OtherOperators/OtherOperator/obj/Debug/OtherOperator.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/OtherOperators/OtherOperator/obj/Debug/OtherOperator.exe
+/home/agozie/RiderProjects/OtherOperators/OtherOperator/obj/Debug/OtherOperator.pdb

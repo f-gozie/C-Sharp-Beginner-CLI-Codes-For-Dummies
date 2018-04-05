@@ -1,0 +1,10 @@
+/home/agozie/RiderProjects/day_01/bin/Debug/netcoreapp2.0/day_01.deps.json
+/home/agozie/RiderProjects/day_01/bin/Debug/netcoreapp2.0/day_01.runtimeconfig.json
+/home/agozie/RiderProjects/day_01/bin/Debug/netcoreapp2.0/day_01.runtimeconfig.dev.json
+/home/agozie/RiderProjects/day_01/bin/Debug/netcoreapp2.0/day_01.dll
+/home/agozie/RiderProjects/day_01/bin/Debug/netcoreapp2.0/day_01.pdb
+/home/agozie/RiderProjects/day_01/obj/Debug/netcoreapp2.0/day_01.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/day_01/obj/Debug/netcoreapp2.0/day_01.AssemblyInfoInputs.cache
+/home/agozie/RiderProjects/day_01/obj/Debug/netcoreapp2.0/day_01.AssemblyInfo.cs
+/home/agozie/RiderProjects/day_01/obj/Debug/netcoreapp2.0/day_01.dll
+/home/agozie/RiderProjects/day_01/obj/Debug/netcoreapp2.0/day_01.pdb

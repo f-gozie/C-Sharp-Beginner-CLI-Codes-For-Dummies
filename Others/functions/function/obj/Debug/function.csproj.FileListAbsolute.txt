@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/functions/function/bin/Debug/function.exe
+/home/agozie/RiderProjects/functions/function/bin/Debug/function.pdb
+/home/agozie/RiderProjects/functions/function/obj/Debug/function.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/functions/function/obj/Debug/function.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/functions/function/obj/Debug/function.exe
+/home/agozie/RiderProjects/functions/function/obj/Debug/function.pdb

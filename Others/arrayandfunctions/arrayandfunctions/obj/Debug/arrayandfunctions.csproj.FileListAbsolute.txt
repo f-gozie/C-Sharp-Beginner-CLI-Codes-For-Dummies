@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/arrayandfunctions/arrayandfunctions/bin/Debug/arrayandfunctions.exe
+/home/agozie/RiderProjects/arrayandfunctions/arrayandfunctions/bin/Debug/arrayandfunctions.pdb
+/home/agozie/RiderProjects/arrayandfunctions/arrayandfunctions/obj/Debug/arrayandfunctions.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/arrayandfunctions/arrayandfunctions/obj/Debug/arrayandfunctions.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/arrayandfunctions/arrayandfunctions/obj/Debug/arrayandfunctions.exe
+/home/agozie/RiderProjects/arrayandfunctions/arrayandfunctions/obj/Debug/arrayandfunctions.pdb

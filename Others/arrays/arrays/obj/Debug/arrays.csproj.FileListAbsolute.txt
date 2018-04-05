@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/arrays/arrays/bin/Debug/arrays.exe
+/home/agozie/RiderProjects/arrays/arrays/bin/Debug/arrays.pdb
+/home/agozie/RiderProjects/arrays/arrays/obj/Debug/arrays.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/arrays/arrays/obj/Debug/arrays.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/arrays/arrays/obj/Debug/arrays.exe
+/home/agozie/RiderProjects/arrays/arrays/obj/Debug/arrays.pdb

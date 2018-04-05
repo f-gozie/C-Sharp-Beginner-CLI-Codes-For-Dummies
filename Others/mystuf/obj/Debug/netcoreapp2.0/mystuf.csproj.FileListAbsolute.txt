@@ -1,0 +1,10 @@
+/home/agozie/RiderProjects/mystuf/bin/Debug/netcoreapp2.0/mystuf.deps.json
+/home/agozie/RiderProjects/mystuf/bin/Debug/netcoreapp2.0/mystuf.runtimeconfig.json
+/home/agozie/RiderProjects/mystuf/bin/Debug/netcoreapp2.0/mystuf.runtimeconfig.dev.json
+/home/agozie/RiderProjects/mystuf/bin/Debug/netcoreapp2.0/mystuf.dll
+/home/agozie/RiderProjects/mystuf/bin/Debug/netcoreapp2.0/mystuf.pdb
+/home/agozie/RiderProjects/mystuf/obj/Debug/netcoreapp2.0/mystuf.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/mystuf/obj/Debug/netcoreapp2.0/mystuf.AssemblyInfoInputs.cache
+/home/agozie/RiderProjects/mystuf/obj/Debug/netcoreapp2.0/mystuf.AssemblyInfo.cs
+/home/agozie/RiderProjects/mystuf/obj/Debug/netcoreapp2.0/mystuf.dll
+/home/agozie/RiderProjects/mystuf/obj/Debug/netcoreapp2.0/mystuf.pdb

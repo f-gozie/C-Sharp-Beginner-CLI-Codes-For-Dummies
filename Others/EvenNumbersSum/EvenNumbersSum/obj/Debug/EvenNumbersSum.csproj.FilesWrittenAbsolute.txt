@@ -1,0 +1,5 @@
+/home/agozie/RiderProjects/EvenNumbersSum/EvenNumbersSum/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/agozie/RiderProjects/EvenNumbersSum/EvenNumbersSum/bin/Debug/EvenNumbersSum.exe.mdb
+/home/agozie/RiderProjects/EvenNumbersSum/EvenNumbersSum/bin/Debug/EvenNumbersSum.exe
+/home/agozie/RiderProjects/EvenNumbersSum/EvenNumbersSum/obj/Debug/EvenNumbersSum.exe
+/home/agozie/RiderProjects/EvenNumbersSum/EvenNumbersSum/obj/Debug/EvenNumbersSum.exe.mdb

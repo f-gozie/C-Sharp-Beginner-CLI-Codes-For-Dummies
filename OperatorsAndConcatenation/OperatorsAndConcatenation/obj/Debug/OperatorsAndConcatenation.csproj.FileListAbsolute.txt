@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/OperatorsAndConcatenation/OperatorsAndConcatenation/bin/Debug/OperatorsAndConcatenation.exe
+/home/agozie/RiderProjects/OperatorsAndConcatenation/OperatorsAndConcatenation/bin/Debug/OperatorsAndConcatenation.pdb
+/home/agozie/RiderProjects/OperatorsAndConcatenation/OperatorsAndConcatenation/obj/Debug/OperatorsAndConcatenation.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/OperatorsAndConcatenation/OperatorsAndConcatenation/obj/Debug/OperatorsAndConcatenation.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/OperatorsAndConcatenation/OperatorsAndConcatenation/obj/Debug/OperatorsAndConcatenation.exe
+/home/agozie/RiderProjects/OperatorsAndConcatenation/OperatorsAndConcatenation/obj/Debug/OperatorsAndConcatenation.pdb

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/TypeConversion/TypeConversion/bin/Debug/TypeConversion.exe
+/home/agozie/RiderProjects/TypeConversion/TypeConversion/bin/Debug/TypeConversion.pdb
+/home/agozie/RiderProjects/TypeConversion/TypeConversion/obj/Debug/TypeConversion.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/TypeConversion/TypeConversion/obj/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/TypeConversion/TypeConversion/obj/Debug/TypeConversion.exe
+/home/agozie/RiderProjects/TypeConversion/TypeConversion/obj/Debug/TypeConversion.pdb

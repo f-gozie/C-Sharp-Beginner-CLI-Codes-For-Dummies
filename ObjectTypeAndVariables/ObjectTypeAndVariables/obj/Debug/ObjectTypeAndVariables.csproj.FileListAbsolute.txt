@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/ObjectTypeAndVariables/ObjectTypeAndVariables/bin/Debug/ObjectTypeAndVariables.exe
+/home/agozie/RiderProjects/ObjectTypeAndVariables/ObjectTypeAndVariables/bin/Debug/ObjectTypeAndVariables.pdb
+/home/agozie/RiderProjects/ObjectTypeAndVariables/ObjectTypeAndVariables/obj/Debug/ObjectTypeAndVariables.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/ObjectTypeAndVariables/ObjectTypeAndVariables/obj/Debug/ObjectTypeAndVariables.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/ObjectTypeAndVariables/ObjectTypeAndVariables/obj/Debug/ObjectTypeAndVariables.exe
+/home/agozie/RiderProjects/ObjectTypeAndVariables/ObjectTypeAndVariables/obj/Debug/ObjectTypeAndVariables.pdb

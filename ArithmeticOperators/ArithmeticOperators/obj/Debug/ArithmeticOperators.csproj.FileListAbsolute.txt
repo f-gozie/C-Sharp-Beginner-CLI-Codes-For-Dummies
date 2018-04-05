@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/ArithmeticOperators/ArithmeticOperators/obj/Debug/ArithmeticOperators.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/ArithmeticOperators/ArithmeticOperators/obj/Debug/ArithmeticOperators.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/ArithmeticOperators/ArithmeticOperators/bin/Debug/ArithmeticOperators.exe
+/home/agozie/RiderProjects/ArithmeticOperators/ArithmeticOperators/bin/Debug/ArithmeticOperators.pdb
+/home/agozie/RiderProjects/ArithmeticOperators/ArithmeticOperators/obj/Debug/ArithmeticOperators.exe
+/home/agozie/RiderProjects/ArithmeticOperators/ArithmeticOperators/obj/Debug/ArithmeticOperators.pdb

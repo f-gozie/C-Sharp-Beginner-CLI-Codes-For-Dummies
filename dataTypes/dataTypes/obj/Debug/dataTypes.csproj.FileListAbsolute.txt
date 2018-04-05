@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/dataTypes/dataTypes/bin/Debug/dataTypes.exe
+/home/agozie/RiderProjects/dataTypes/dataTypes/bin/Debug/dataTypes.pdb
+/home/agozie/RiderProjects/dataTypes/dataTypes/obj/Debug/dataTypes.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/dataTypes/dataTypes/obj/Debug/dataTypes.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/dataTypes/dataTypes/obj/Debug/dataTypes.exe
+/home/agozie/RiderProjects/dataTypes/dataTypes/obj/Debug/dataTypes.pdb

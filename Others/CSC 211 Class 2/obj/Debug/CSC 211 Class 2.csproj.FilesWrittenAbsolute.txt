@@ -1,0 +1,5 @@
+/home/agozie/RiderProjects/CSC 211 Class 2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/agozie/RiderProjects/CSC 211 Class 2/bin/Debug/CSC_211_Class_2.exe.mdb
+/home/agozie/RiderProjects/CSC 211 Class 2/bin/Debug/CSC_211_Class_2.exe
+/home/agozie/RiderProjects/CSC 211 Class 2/obj/Debug/CSC_211_Class_2.exe
+/home/agozie/RiderProjects/CSC 211 Class 2/obj/Debug/CSC_211_Class_2.exe.mdb

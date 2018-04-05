@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/sequenceshii/sequenceshii/bin/Debug/sequenceshii.exe
+/home/agozie/RiderProjects/sequenceshii/sequenceshii/bin/Debug/sequenceshii.pdb
+/home/agozie/RiderProjects/sequenceshii/sequenceshii/obj/Debug/sequenceshii.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/sequenceshii/sequenceshii/obj/Debug/sequenceshii.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/sequenceshii/sequenceshii/obj/Debug/sequenceshii.exe
+/home/agozie/RiderProjects/sequenceshii/sequenceshii/obj/Debug/sequenceshii.pdb

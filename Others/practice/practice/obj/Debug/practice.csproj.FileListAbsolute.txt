@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/practice/practice/bin/Debug/practice.exe
+/home/agozie/RiderProjects/practice/practice/bin/Debug/practice.pdb
+/home/agozie/RiderProjects/practice/practice/obj/Debug/practice.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/practice/practice/obj/Debug/practice.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/practice/practice/obj/Debug/practice.exe
+/home/agozie/RiderProjects/practice/practice/obj/Debug/practice.pdb

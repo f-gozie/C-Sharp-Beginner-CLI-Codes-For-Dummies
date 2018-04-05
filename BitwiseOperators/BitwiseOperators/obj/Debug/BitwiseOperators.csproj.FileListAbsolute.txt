@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/BitwiseOperators/BitwiseOperators/bin/Debug/BitwiseOperators.exe
+/home/agozie/RiderProjects/BitwiseOperators/BitwiseOperators/bin/Debug/BitwiseOperators.pdb
+/home/agozie/RiderProjects/BitwiseOperators/BitwiseOperators/obj/Debug/BitwiseOperators.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/BitwiseOperators/BitwiseOperators/obj/Debug/BitwiseOperators.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/BitwiseOperators/BitwiseOperators/obj/Debug/BitwiseOperators.exe
+/home/agozie/RiderProjects/BitwiseOperators/BitwiseOperators/obj/Debug/BitwiseOperators.pdb

@@ -1,0 +1,5 @@
+/home/agozie/RiderProjects/Loopsandshii/Loopsandshii/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/agozie/RiderProjects/Loopsandshii/Loopsandshii/bin/Debug/Loopsandshii.exe.mdb
+/home/agozie/RiderProjects/Loopsandshii/Loopsandshii/bin/Debug/Loopsandshii.exe
+/home/agozie/RiderProjects/Loopsandshii/Loopsandshii/obj/Debug/Loopsandshii.exe
+/home/agozie/RiderProjects/Loopsandshii/Loopsandshii/obj/Debug/Loopsandshii.exe.mdb

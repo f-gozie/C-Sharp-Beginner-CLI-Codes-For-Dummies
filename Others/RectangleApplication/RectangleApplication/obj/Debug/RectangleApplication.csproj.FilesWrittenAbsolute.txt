@@ -1,0 +1,5 @@
+/home/agozie/RiderProjects/RectangleApplication/RectangleApplication/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/agozie/RiderProjects/RectangleApplication/RectangleApplication/bin/Debug/RectangleApplication.exe.mdb
+/home/agozie/RiderProjects/RectangleApplication/RectangleApplication/bin/Debug/RectangleApplication.exe
+/home/agozie/RiderProjects/RectangleApplication/RectangleApplication/obj/Debug/RectangleApplication.exe
+/home/agozie/RiderProjects/RectangleApplication/RectangleApplication/obj/Debug/RectangleApplication.exe.mdb

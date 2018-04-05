@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/ComparisonOperators/ComparisonOperators/bin/Debug/ComparisonOperators.exe
+/home/agozie/RiderProjects/ComparisonOperators/ComparisonOperators/bin/Debug/ComparisonOperators.pdb
+/home/agozie/RiderProjects/ComparisonOperators/ComparisonOperators/obj/Debug/ComparisonOperators.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/ComparisonOperators/ComparisonOperators/obj/Debug/ComparisonOperators.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/ComparisonOperators/ComparisonOperators/obj/Debug/ComparisonOperators.exe
+/home/agozie/RiderProjects/ComparisonOperators/ComparisonOperators/obj/Debug/ComparisonOperators.pdb
