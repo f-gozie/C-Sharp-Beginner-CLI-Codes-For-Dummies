@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/agozie/RiderProjects/mystuf/mystuf.csproj",
+    "projectUniqueName": "/home/agozie/RiderProjects/Others/mystuf/mystuf.csproj",
     "projectName": "mystuf",
-    "projectPath": "/home/agozie/RiderProjects/mystuf/mystuf.csproj",
-    "outputPath": "/home/agozie/RiderProjects/mystuf/obj/",
+    "projectPath": "/home/agozie/RiderProjects/Others/mystuf/mystuf.csproj",
+    "outputPath": "/home/agozie/RiderProjects/Others/mystuf/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"

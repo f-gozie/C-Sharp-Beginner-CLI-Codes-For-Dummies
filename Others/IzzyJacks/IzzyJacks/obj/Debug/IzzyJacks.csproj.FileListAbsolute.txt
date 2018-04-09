@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/Others/IzzyJacks/IzzyJacks/bin/Debug/IzzyJacks.exe
+/home/agozie/RiderProjects/Others/IzzyJacks/IzzyJacks/bin/Debug/IzzyJacks.pdb
+/home/agozie/RiderProjects/Others/IzzyJacks/IzzyJacks/obj/Debug/IzzyJacks.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/Others/IzzyJacks/IzzyJacks/obj/Debug/IzzyJacks.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/Others/IzzyJacks/IzzyJacks/obj/Debug/IzzyJacks.exe
+/home/agozie/RiderProjects/Others/IzzyJacks/IzzyJacks/obj/Debug/IzzyJacks.pdb

@@ -1,0 +1,6 @@
+/home/agozie/RiderProjects/Others/CelsiusToFahrenheit/CelsiusToFahrenheit/bin/Debug/CelsiusToFahrenheit.exe
+/home/agozie/RiderProjects/Others/CelsiusToFahrenheit/CelsiusToFahrenheit/bin/Debug/CelsiusToFahrenheit.pdb
+/home/agozie/RiderProjects/Others/CelsiusToFahrenheit/CelsiusToFahrenheit/obj/Debug/CelsiusToFahrenheit.csprojResolveAssemblyReference.cache
+/home/agozie/RiderProjects/Others/CelsiusToFahrenheit/CelsiusToFahrenheit/obj/Debug/CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+/home/agozie/RiderProjects/Others/CelsiusToFahrenheit/CelsiusToFahrenheit/obj/Debug/CelsiusToFahrenheit.exe
+/home/agozie/RiderProjects/Others/CelsiusToFahrenheit/CelsiusToFahrenheit/obj/Debug/CelsiusToFahrenheit.pdb

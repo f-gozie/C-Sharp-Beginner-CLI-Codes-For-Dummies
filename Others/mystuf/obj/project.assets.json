@@ -670,17 +670,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/agozie/RiderProjects/mystuf/mystuf.csproj",
+      "projectUniqueName": "/home/agozie/RiderProjects/Others/mystuf/mystuf.csproj",
       "projectName": "mystuf",
-      "projectPath": "/home/agozie/RiderProjects/mystuf/mystuf.csproj",
+      "projectPath": "/home/agozie/RiderProjects/Others/mystuf/mystuf.csproj",
       "packagesPath": "/home/agozie/.nuget/packages/",
-      "outputPath": "/home/agozie/RiderProjects/mystuf/obj/",
+      "outputPath": "/home/agozie/RiderProjects/Others/mystuf/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/agozie/.nuget/NuGet/NuGet.Config"
+        "/home/agozie/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -703,6 +703,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
